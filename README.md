@@ -9,3 +9,4 @@ Série: 3º. Turma: 732. Curso: Técnico em Informática. Turno: Matutino.
 *Projeto: SCET*
 =============
 Projeto realizado pelos citados alunos com o objetivo da organização de TCC's e Estágios.
+Repositório original: https://github.com/scet-ppa/SCET-PPA 
